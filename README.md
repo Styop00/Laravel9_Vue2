@@ -15,4 +15,6 @@
 - php artisan serve
 - npm run watch
 
-## Open your local host and login with email-admin@gmail.com, password-1
+## Open your local host and login 
+- email - admin@gmail.com
+- password - 1
